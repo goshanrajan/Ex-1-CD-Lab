@@ -77,8 +77,11 @@ int main() {
 }
 ```
 # OUTPUT
-
 <img width="965" height="567" alt="WhatsApp Image 2026-07-23 at 10 42 13 AM" src="https://github.com/user-attachments/assets/00c50bb3-add1-412f-bc7c-0602a7ab29f6" />
+
+
+
+
 <img width="1041" height="572" alt="WhatsApp Image 2026-07-23 at 10 43 10 AM" src="https://github.com/user-attachments/assets/02c8e7a3-0d25-4671-bfe6-64af95bba8b7" />
 
 # RESULT
